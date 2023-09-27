@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+}
+.H1{
+    display: flex;
+    justify-content: center;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+.bouton{
+    display: flex;
+    flex-direction: column;
+}
+.mystere{
+    display: flex;
+    justify-content: center;
+}
+.historique{
+    display: flex;
+    justify-content: center;
+}
+.click{
+    margin: 10px;
+}
+.H1{
+    margin-bottom: 5rem;
+}
